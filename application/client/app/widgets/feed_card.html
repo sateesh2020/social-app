@@ -1,0 +1,23 @@
+<div class="panel panel-info custom-panel" ng-drag="true" data-allow-transform="true" ng-drag-data="vm.feed">
+    <div class="panel-heading">
+            <h3 class="panel-title clearfix">
+              <span class="pull-left">
+                {{vm.feed.postTitle | limitTo:30}}
+              </span>
+              <span class="pull-right">
+                {{vm.feed.postedOn | date}}
+              </span>
+            </h3>
+    </div>
+    <div class="panel-body">
+        <a ng-href="{{vm.feed.postData.url}}">
+            <img ng-src="{{vm.feed.postData.thumbImage}}" class="img-responsive" alt="{{vm.feed.postData.name}}" />
+        </a>
+    </div>
+    <div class="panel-footer">
+        <h2>{{vm.feed.postData.name | limitTo:60}}..</h2>
+        <p>
+            {{vm.feed.postData.description | limitTo:300}}..
+        </p>
+    </div>
+</div>

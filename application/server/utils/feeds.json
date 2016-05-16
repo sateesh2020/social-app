@@ -1,0 +1,213 @@
+{
+    "success": false,
+    "feeds": {
+        "kind": "plus#activityFeed",
+        "etag": "\"PdVrgyg49MXU0yk25IMSkjLLrEk/hjkO59h2aHyija_2fVB3V2wctCQ\"",
+        "title": "Google+ List of Activities for Collection PUBLIC",
+        "updated": "2016-05-07T05:57:03.187Z",
+        "items": [{
+            "kind": "plus#activity",
+            "etag": "\"PdVrgyg49MXU0yk25IMSkjLLrEk/uR_75gVztFEpcl-QCBTnF7X65tA\"",
+            "title": "Proud to be An INDIAN",
+            "published": "2016-05-07T05:57:03.187Z",
+            "updated": "2016-05-07T05:57:03.187Z",
+            "id": "z12qtlta0sj0sn2yo04cirobrwy3u5airpg0k",
+            "url": "https://plus.google.com/+SateeshSmart/posts/cUWHUBiEScc",
+            "actor": {
+                "id": "104467607776573227644",
+                "displayName": "Sateesh Smart",
+                "url": "https://plus.google.com/104467607776573227644",
+                "image": {
+                    "url": "https://lh6.googleusercontent.com/-HGbYu9xTptk/AAAAAAAAAAI/AAAAAAAAMBQ/OIoT_INE6co/photo.jpg?sz=50"
+                },
+                "verification": {
+                    "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+                }
+            },
+            "verb": "post",
+            "object": {
+                "objectType": "note",
+                "actor": {
+                    "verification": {
+                        "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+                    }
+                },
+                "content": "Proud to be An INDIAN﻿",
+                "url": "https://plus.google.com/+SateeshSmart/posts/cUWHUBiEScc",
+                "replies": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qtlta0sj0sn2yo04cirobrwy3u5airpg0k/comments"
+                },
+                "plusoners": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qtlta0sj0sn2yo04cirobrwy3u5airpg0k/people/plusoners"
+                },
+                "resharers": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qtlta0sj0sn2yo04cirobrwy3u5airpg0k/people/resharers"
+                },
+                "attachments": [{
+                    "objectType": "video",
+                    "displayName": "Indian Army Latest Official Inspiring Documentary - 2016",
+                    "content": "The Indian Army is the largest voluntary army and, next to China, the second largest army in the world. It is also a large conglomeration of values, experien...",
+                    "url": "https://www.youtube.com/attribution_link?a=9HS7bUT9CKw&u=%2Fwatch%3Fv%3DqLjZl0ay3oc%26feature%3Dshare",
+                    "image": {
+                        "url": "https://lh3.googleusercontent.com/proxy/1SbgR7R_XZ7bMcttD0qDzK2jI2DshQCdggf_eEX_Hj60bQaA9g-rmq4w7JFuNE-ZmHQUqsUHSZm8NpuB-Pmuo2isP1U=w506-h284-n",
+                        "type": "image/jpeg",
+                        "height": 284,
+                        "width": 506
+                    },
+                    "embed": {
+                        "url": "https://www.youtube.com/embed/qLjZl0ay3oc",
+                        "type": "application/x-shockwave-flash"
+                    }
+                }]
+            },
+            "provider": {
+                "title": "Google+"
+            },
+            "access": {
+                "kind": "plus#acl",
+                "description": "Public",
+                "items": [{
+                    "type": "public"
+                }]
+            }
+        }, {
+            "kind": "plus#activity",
+            "etag": "\"PdVrgyg49MXU0yk25IMSkjLLrEk/0EzyOiokYOa2QKZCC6SJDRpeewc\"",
+            "title": "Must Look at :)",
+            "published": "2014-12-16T19:11:49.081Z",
+            "updated": "2014-12-16T19:11:49.081Z",
+            "id": "z121d3urnpyuhveoo04cirobrwy3u5airpg0k",
+            "url": "https://plus.google.com/+SateeshSmart/posts/Rp2PV4sfvEm",
+            "actor": {
+                "id": "104467607776573227644",
+                "displayName": "Sateesh Smart",
+                "url": "https://plus.google.com/104467607776573227644",
+                "image": {
+                    "url": "https://lh6.googleusercontent.com/-HGbYu9xTptk/AAAAAAAAAAI/AAAAAAAAMBQ/OIoT_INE6co/photo.jpg?sz=50"
+                },
+                "verification": {
+                    "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+                }
+            },
+            "verb": "post",
+            "object": {
+                "objectType": "note",
+                "actor": {
+                    "verification": {
+                        "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+                    }
+                },
+                "content": "Must Look at :)﻿",
+                "url": "https://plus.google.com/+SateeshSmart/posts/Rp2PV4sfvEm",
+                "replies": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z121d3urnpyuhveoo04cirobrwy3u5airpg0k/comments"
+                },
+                "plusoners": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z121d3urnpyuhveoo04cirobrwy3u5airpg0k/people/plusoners"
+                },
+                "resharers": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z121d3urnpyuhveoo04cirobrwy3u5airpg0k/people/resharers"
+                },
+                "attachments": [{
+                    "objectType": "article",
+                    "displayName": "Google",
+                    "url": "http://www.google.com",
+                    "image": {
+                        "url": "https://lh3.googleusercontent.com/proxy/0EHLED_j03yiDoeSV4i70GXS1WUZ8n0Oht00KKm-RuRVhJRp94LvBgqZshSL7vzk4nDu4Kuz0qdbkIlz9-QFKd1I0MD0=w120-h120",
+                        "type": "image/jpeg",
+                        "height": 120,
+                        "width": 120
+                    },
+                    "fullImage": {
+                        "url": "http://www.google.co.in/images/google_favicon_128.png",
+                        "type": "image/jpeg"
+                    }
+                }]
+            },
+            "provider": {
+                "title": "Google+"
+            },
+            "access": {
+                "kind": "plus#acl",
+                "description": "Public",
+                "items": [{
+                    "type": "public"
+                }]
+            }
+        }, {
+            "kind": "plus#activity",
+            "etag": "\"PdVrgyg49MXU0yk25IMSkjLLrEk/vKOYxNX9W_r3cIpwaCT7rEegacE\"",
+            "title": "Nice Story....",
+            "published": "2014-12-15T14:49:46.746Z",
+            "updated": "2014-12-15T14:49:46.746Z",
+            "id": "z12pibdrvo3xc1s1b23px1xzbkyldnpxf04",
+            "url": "https://plus.google.com/+SateeshSmart/posts/7edGhw8ZmkD",
+            "actor": {
+                "id": "104467607776573227644",
+                "displayName": "Sateesh Smart",
+                "url": "https://plus.google.com/104467607776573227644",
+                "image": {
+                    "url": "https://lh6.googleusercontent.com/-HGbYu9xTptk/AAAAAAAAAAI/AAAAAAAAMBQ/OIoT_INE6co/photo.jpg?sz=50"
+                },
+                "verification": {
+                    "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+                }
+            },
+            "verb": "post",
+            "object": {
+                "objectType": "note",
+                "actor": {
+                    "verification": {
+                        "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+                    }
+                },
+                "content": "Nice Story....﻿",
+                "url": "https://plus.google.com/+SateeshSmart/posts/7edGhw8ZmkD",
+                "replies": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12pibdrvo3xc1s1b23px1xzbkyldnpxf04/comments"
+                },
+                "plusoners": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12pibdrvo3xc1s1b23px1xzbkyldnpxf04/people/plusoners"
+                },
+                "resharers": {
+                    "totalItems": 0,
+                    "selfLink": "https://www.googleapis.com/plus/v1/activities/z12pibdrvo3xc1s1b23px1xzbkyldnpxf04/people/resharers"
+                },
+                "attachments": [{
+                    "objectType": "video",
+                    "displayName": "Land of Giants",
+                    "content": "LAND OF GIANTS ON FACEBOOK http://www.facebook.com/landofgiantsfilm This short is a first look into the world of LAND OF GIANTS, where western, martial arts ...",
+                    "url": "http://www.youtube.com/watch?v=jMVw9LxzUB0",
+                    "image": {
+                        "url": "https://lh3.googleusercontent.com/proxy/Csnj1zNAS1bkY5l_SGeBBslSImKt6yzPXBpTdk8_Uv0xrvdmt9m2X7ai_rc1gMTQd2yOAmj4NGaEc3zH3SDisQ=w506-h284-n",
+                        "type": "image/jpeg",
+                        "height": 284,
+                        "width": 506
+                    },
+                    "embed": {
+                        "url": "https://www.youtube.com/embed/jMVw9LxzUB0",
+                        "type": "application/x-shockwave-flash"
+                    }
+                }]
+            },
+            "provider": {
+                "title": "Youtube"
+            },
+            "access": {
+                "kind": "plus#acl",
+                "description": "Public",
+                "items": [{
+                    "type": "public"
+                }]
+            }
+        }]
+    }
+}

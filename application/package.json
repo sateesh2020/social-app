@@ -1,0 +1,24 @@
+{
+  "name": "social-app",
+  "version": "1.0.0",
+  "description": "Social Application",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Social",
+    "Network",
+    "Application"
+  ],
+  "author": "Satheesh Valluru",
+  "license": "ISC",
+  "dependencies": {
+    "express-session": "^1.13.0",
+    "lodash": "^4.12.0",
+    "unirest": "^0.5.0"
+  }
+}

@@ -1,0 +1,31 @@
+<div class="container-fluid feeds-container">
+    <section class="row">
+        <div class="col-md-6 border-right">
+            <form class="form-horizontal">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="col-sm-4 control-label">Search</label>
+                            <div class="col-sm-8">
+                                <input type="text" data-ng-model="vm.feedSearch" class="form-control" placeholder="Search">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                  <h3>Note: Drag and Drop the post card to save.</h3>
+            </form>
+            <div class="col-md-6 col-sm-12 col-lg-6" data-ng-repeat="feed in vm.googlePosts | filter:vm.feedSearch" data-ng-if="feed.postTitle">
+                  <feed-card feed="feed">
+
+                  </feed-card>
+            </div>
+        </div>
+        <div class="col-md-6" ng-drop="true" ng-drop-success="vm.onFeedDrop($data,$event)">
+          <div class="col-md-6 col-sm-12 col-lg-6" data-ng-repeat="feed in vm.savedPosts" data-ng-if="feed.postTitle" style="min-height:100vh">
+                <feed-card feed="feed">
+
+                </feed-card>
+          </div>
+        </div>
+    </section>
+</div>

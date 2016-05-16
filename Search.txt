@@ -1,0 +1,14 @@
+https://developers.facebook.com/docs/javascript/reference/v2.6
+
+Save the timestamp in mongodb using mongoose
+
+
+
+
+
+API Version
+v2.6
+App ID
+967469940015150
+App Secret
+ed351d6b626efb7bd65c1daf02267010

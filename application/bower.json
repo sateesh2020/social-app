@@ -1,0 +1,27 @@
+{
+  "name": "social-app",
+  "description": "Social Application",
+  "main": "index.js",
+  "authors": [
+    "Satheesh Valluru"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Social",
+    "Network",
+    "Application"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ngFacebook": "^0.0.7",
+    "bootstrap": "^3.3.6",
+    "angular-google-plus": "^0.1.3"
+  }
+}

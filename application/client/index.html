@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Social App</title>
+    <link rel="stylesheet" href="libs/bootstrap/css/bootstrap.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="libs/bootstrap/css/bootstrap-theme.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="css/app.css" media="screen" title="no title" charset="utf-8">
+</head>
+
+<body data-ng-app="social-app">
+    <div class="site-wrapper">
+        <app-header></app-header>
+        <div class="site-wrapper-inner" ui-view>
+
+        </div>
+
+    </div>
+
+
+
+    <script src="libs/angular/angular.js" charset="utf-8"></script>
+    <script src="libs/angular/angular-animate.js" charset="utf-8"></script>
+    <script src="libs/angular/ui-router.js" charset="utf-8"></script>
+    <script src="libs/angular/angular-cookie.js" charset="utf-8"></script>
+    <script src="libs/angular/ui-bootstrap-tpls.js" charset="utf-8"></script>
+    <script src="libs/ngDraggable/ngDraggable.js" charset="utf-8"></script>
+    <script src="libs/angular-google-plus/angular-google-plus.js" charset="utf-8"></script>
+
+
+    <script src="app/login/login.js" charset="utf-8"></script>
+    <script src="app/feeds/feeds.js" charset="utf-8"></script>
+    <script src="app/widgets/widgets.js" charset="utf-8"></script>
+
+    <script src="app/login/login.service.js" charset="utf-8"></script>
+    <script src="app/feeds/feeds.service.js" charset="utf-8"></script>
+
+    <script src="app/app.module.js" charset="utf-8"></script>
+    <script src="app/app.routes.js" charset="utf-8"></script>
+</body>
+
+</html>
